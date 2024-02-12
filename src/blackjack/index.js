@@ -12,7 +12,6 @@ let puntosJugador = 0,
 
 
 
-// Referencias del HTML
 const btnPedir   = document.querySelector('#btnPedir');
 const btnDetener = document.querySelector('#btnDetener');
 const btnNuevo   = document.querySelector('#btnNuevo');
